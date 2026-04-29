@@ -8,3 +8,4 @@ This project is created to improve understanding of version control and commits
 # Example - Basic examples will be added gradually
 ## Notes - This project is updated step by step
 # Goals - Improve GitHub activity and documentation skills
+# Status - Work in progress with continuous improvements
