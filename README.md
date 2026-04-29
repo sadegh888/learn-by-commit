@@ -7,5 +7,4 @@
 # Usage - update usage section
 # Example - add example placeholder
 # Notes - refine notes section
-# Goals - 
-define project goals
+# Goals - define project goals
