@@ -3,7 +3,7 @@
 # project add basic project description
 # Overview - expand overview section
 # Features - add features list
-# Beginner friendly - suitable for new developers
+# Beginner friendly - improve feature explanations
 # Usage - Can be used as a reference or practice project
 # Example - Basic examples will be added gradually
 ## Notes - This project is updated step by step
