@@ -6,8 +6,6 @@
 # Beginner friendly - improve feature explanations
 # Usage - update usage section
 # Example - add example placeholder
-## Notes - This project is updated step by step
-# Goals - Improve GitHub activity and documentation skills
-# Status - Work in progress with continuous improvements
-refine notes section
+# Notes - refine notes section
+# Goals - 
 define project goals
