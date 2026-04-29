@@ -10,3 +10,4 @@
 # Goals - Improve GitHub activity and documentation skills
 # Status - Work in progress with continuous improvements
 refine notes section
+define project goals
