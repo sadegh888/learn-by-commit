@@ -5,7 +5,7 @@
 # Features - add features list
 # Beginner friendly - improve feature explanations
 # Usage - update usage section
-# Example - Basic examples will be added gradually
+# Example - add example placeholder
 ## Notes - This project is updated step by step
 # Goals - Improve GitHub activity and documentation skills
 # Status - Work in progress with continuous improvements
