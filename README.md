@@ -4,7 +4,7 @@
 # Overview - expand overview section
 # Features - add features list
 # Beginner friendly - improve feature explanations
-# Usage - Can be used as a reference or practice project
+# Usage - update usage section
 # Example - Basic examples will be added gradually
 ## Notes - This project is updated step by step
 # Goals - Improve GitHub activity and documentation skills
