@@ -1,7 +1,7 @@
 # learn-by-commit
 # Dev Notes Hub - A simple project for learning and practicing GitHub workflows
 # project add basic project description
-# Overview - This repository contains basic notes and examples
+# Overview - expand overview section
 # Features - Simple structure with easy-to-read content
 # Beginner friendly - suitable for new developers
 # Usage - Can be used as a reference or practice project
