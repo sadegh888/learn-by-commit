@@ -5,3 +5,4 @@ This project is created to improve understanding of version control and commits
 # Features - Simple structure with easy-to-read content
 # Beginner friendly - suitable for new developers
 # Usage - Can be used as a reference or practice project
+# Example - Basic examples will be added gradually
