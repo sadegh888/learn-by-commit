@@ -9,3 +9,4 @@
 ## Notes - This project is updated step by step
 # Goals - Improve GitHub activity and documentation skills
 # Status - Work in progress with continuous improvements
+refine notes section
